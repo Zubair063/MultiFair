@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+torch>=2.0
+torchvision
+torchaudio
+transformers>=4.30.0
+fairlearn
+tqdm
+Pillow
+libauc
