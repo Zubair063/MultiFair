@@ -65,7 +65,7 @@ python implementation/FairCLIP/fairclip_eval.py
 
 # Acknowledgment and Citation
 
-If you find our paper useful for your research, please cite our paper(https://arxiv.org/pdf/2510.07328). 
+If you find our paper useful for your research, please cite our [paper](https://arxiv.org/pdf/2510.07328). 
 ```bibtex
 @article{zubair2025multifair,
   title={MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation},
