@@ -1,4 +1,8 @@
 # MultiFair
+> [**MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation**](https://arxiv.org/pdf/2510.07328)
+by Md Zubair, Hao Zheng, *Member, IEEE*, Jonathan Nussdorf, Grayson W. Armstrong, Lucy Q. Shen, Gabriela Wilson, Yu Tian, *Member, IEEE*, Xingquan Zhu, *Fellow, IEEE*, and Min Shi, *Member, IEEE*.
+
+
 This repository provides implementation codes for the **MultiFair** model. **MultiFair** (**Multi**modal Balanced **Fair**ness-Aware Medical Classification with Dual-Level Gradient Modulation) is a multimodal medical classification framework that tackles uneven learning across data modalities and unfair performance across demographic groups. By dynamically modulating training gradients at both levels, it achieves more balanced and fair predictions, outperforming existing multimodal and fairness methods. The concept behind the MultiFair model can be depicted with the following figure. 
 ![Methodology diagram](fig/methodology.png)
 
@@ -60,6 +64,16 @@ python implementation/FairCLIP/fairclip_eval.py
 ```
 
 # Acknowledgment and Citation
+
+If you find our paper useful for your research, please cite our paper(https://arxiv.org/pdf/2510.07328). 
+```bibtex
+@article{zubair2025multifair,
+  title={MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation},
+  author={Zubair, Md and Zheng, Hao and Jonathan, Nussdorf and Armstrong, Grayson W and Shen, Lucy Q and Wilson, Gabriela and Tian, Yu and Zhu, Xingquan and Shi, Min},
+  journal={arXiv preprint arXiv:2510.07328},
+  year={2025}
+}
+
 
 
 
