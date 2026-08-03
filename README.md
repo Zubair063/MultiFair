@@ -1,4 +1,4 @@
-# MultiFair
+# MultiFair [Published in IEEE TMI]
 > [**MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation**](https://arxiv.org/pdf/2510.07328)
 by Md Zubair, Hao Zheng, *Member, IEEE*, Jonathan Nussdorf, Grayson W. Armstrong, Lucy Q. Shen, Gabriela Wilson, Yu Tian, *Member, IEEE*, Xingquan Zhu, *Fellow, IEEE*, and Min Shi, *Member, IEEE*.
 
@@ -65,13 +65,14 @@ python implementation/FairCLIP/fairclip_eval.py
 
 # Acknowledgment and Citation
 
-If you find our paper useful for your research, please cite our [paper](https://arxiv.org/pdf/2510.07328). 
+If you find our paper useful for your research, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/11611251). 
 ```bibtex
-@article{zubair2025multifair,
+@article{zubair2026multifair,
   title={MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation},
-  author={Zubair, Md and Zheng, Hao and Jonathan, Nussdorf and Armstrong, Grayson W and Shen, Lucy Q and Wilson, Gabriela and Tian, Yu and Zhu, Xingquan and Shi, Min},
-  journal={arXiv preprint arXiv:2510.07328},
-  year={2025}
+  author={Zubair, Md and Zheng, Hao and Armstrong, Grayson W and Shen, Lucy Q and Wilson, Gabriela and Tian, Yu and Zhu, Xingquan},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2026},
+  publisher={IEEE}
 }
 
 
